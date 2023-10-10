@@ -14,7 +14,7 @@ Supported resolutions:
 720p (HD): 1280 x 720  
 
 
-Can't go lower than that without the game hud breaking
+Can't go below that without the game hud breaking.
 
 It will automatically detect your main monitor resolution and resize accordingly.
 
