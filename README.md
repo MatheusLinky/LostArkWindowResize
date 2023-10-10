@@ -5,10 +5,14 @@ Supported resolutions:
 
 4320p (8K): 7680 x 4320  
 
-2160p (4K): 3840 x 2160
-1440p (2K): 2560 x 1440
-1080p (HD): 1920 x 1080
-720p (HD): 1280 x 720
+2160p (4K): 3840 x 2160  
+
+1440p (2K): 2560 x 1440  
+
+1080p (HD): 1920 x 1080  
+
+720p (HD): 1280 x 720  
+
 
 Can't go lower than that without the game hud breaking
 
